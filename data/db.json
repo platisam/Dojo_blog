@@ -35,6 +35,12 @@
       "body": "button disabled",
       "author": "marko",
       "id": 6
+    },
+    {
+      "title": "New blog",
+      "body": "useNavigate hook",
+      "author": "marko",
+      "id": 7
     }
   ]
 }
