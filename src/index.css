@@ -143,3 +143,38 @@ body {
   background: #fff;
   transition: all 0.3s linear;
 }
+
+.not-found {
+  max-width: 600px;
+  margin: 60px auto;
+  padding: 30px;
+  text-align: center;
+}
+
+.not-found h2 {
+  font-size: 50px;
+  color: #f1356d;
+  margin-bottom: 30px;
+  font-weight: 700;
+}
+
+.not-found p {
+  margin-bottom: 90px;
+  color: navy;
+}
+
+.not-found .link {
+  text-decoration: none;
+  color: #f1356d;
+  font-weight: 700;
+  border: 1px solid #f1356d;
+  padding: 6px;
+  border-radius: 5px;
+  transition: all 0.3s linear;
+}
+
+.not-found .link:hover {
+  color: #fff;
+  background: #f1356d;
+  border-color: navy;
+}
